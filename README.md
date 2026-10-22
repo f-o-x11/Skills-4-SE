@@ -642,6 +642,11 @@ A Skill in this repo is more than a prompt:
 - Manages repositories, images, tags, and container registry
 - Supports Docker Hub operations
 
+**[deed.page Publisher](https://github.com/ArabelaTso/Skills-4-SE/tree/main/skills/deed-page/)**
+- Publishes a generated HTML file or static folder to a permanent public URL with one curl request
+- No account or API key; the first publish returns an owner token for updates and deletes
+- Supports versioned updates, expiring sites and single-page app routing
+
 
 
 
@@ -1302,6 +1307,7 @@ A Skill in this repo is more than a prompt:
 
 - **Cloud & Infrastructure Deployment**
     - [Docker Hub Automation](docker_hub-automation) – Automate Docker Hub tasks via Rube MCP (Composio) for repositories, images, tags, and container registry management
+    - [deed.page Publisher](https://github.com/ArabelaTso/Skills-4-SE/tree/main/skills/deed-page) – Publish a static site, HTML report or docs folder to a permanent public URL with one curl request
 
 - **Deployment Verification & Testing**
     - [Rollback Strategy Advisor](https://github.com/ArabelaTso/Skills-4-SE/tree/main/skills/rollback-strategy-advisor) – Suggest rollback strategies for failed deployments
